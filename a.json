@@ -1,6 +1,6 @@
 {
   "credits": "X'and Choer",
-  "showDialog": true,
+  "showDialog": false,
   "title": "Update Available",
   "message": "A new version is available.",
   "showNegativeButton": true,
