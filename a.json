@@ -1,0 +1,13 @@
+{
+  "credits": "X'and Choer",
+  "showDialog": false,
+  "title": "Update Available",
+  "message": "A new version is available.",
+  "showNegativeButton": true,
+  "negativeButtonText": "UPDATE",
+  "negativeButtonUrl": "https://www.mazter.enter.com",
+  "showPositiveButton": false,
+  "positiveButtonText": "OK",
+  "maxShowCount": 3,
+  "controlByShowCount": false
+}
