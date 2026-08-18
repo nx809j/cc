@@ -1,6 +1,6 @@
 {
   "credits": "nx809j",
-  "showDialog": true,
+  "showDialog": false,
   "title": "NX809J GITHUB TEST",
   "message": "GitHub checker connected",
   "showNegativeButton": true,
